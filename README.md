@@ -11,6 +11,8 @@ File:
 - puskesmas.js: pemilihan Puskesmas
 - utils.js: delay dan pilihan menu CMD
 - pendaftaran.js: baca Excel dan cari NIK
+- Hapus.js: mengahapus pasien yang tidak diperluka
+- 
 
 Persiapan:
 1. Isi email/password milik Anda di credentials.json.
