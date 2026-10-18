@@ -18,6 +18,12 @@ Persiapan:
 1. Isi email/password milik Anda di credentials.json.
 2. Letakkan pasien.xlsx dengan kolom bernama NIK.
 
+Fitur:
+Pendaftaran
+Pelayanan (masih dalam tahap pengembangan)
+Database
+Hapus Pasien (dipergunakan dengan baik ya)
+
 Dependensi:
 npm install puppeteer xlsx
 
