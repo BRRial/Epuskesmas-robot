@@ -11,18 +11,17 @@ File:
 - puskesmas.js: pemilihan Puskesmas
 - utils.js: delay dan pilihan menu CMD
 - pendaftaran.js: baca Excel dan cari NIK
-- Hapus.js: mengahapus pasien yang tidak diperluka
-- 
+- Hapus.js: mengahapus pasien yang tidak diperlukan
 
 Persiapan:
 1. Isi email/password milik Anda di credentials.json.
 2. Letakkan pasien.xlsx dengan kolom bernama NIK.
 
 Fitur:
-Pendaftaran
-Pelayanan (masih dalam tahap pengembangan)
-Database
-Hapus Pasien (dipergunakan dengan baik ya)
+1. Pendaftaran
+2. Pelayanan (masih dalam tahap pengembangan)
+3. Database
+4. Hapus Pasien (dipergunakan dengan baik ya)
 
 Dependensi:
 npm install puppeteer xlsx
