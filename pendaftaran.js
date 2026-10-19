@@ -126,10 +126,6 @@ async function cariPasien(page, nik) {
             ...document.querySelectorAll('tbody tr')
         ].find(tr => {
             const kolom = tr.querySelectorAll('td');
-
-            // Berdasarkan HTML tabel yang Anda kirim:
-            // indeks 1 = No. eRM
-            // indeks 5 = NIK
             return kolom.length > 5 &&
                 kolom[5].textContent.trim() === String(nilaiNIK);
         });
