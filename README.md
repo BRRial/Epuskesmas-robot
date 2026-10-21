@@ -19,10 +19,7 @@ Persiapan:
 
 Fitur:
 1. Pendaftaran
-2. Pelayanan (masih dalam tahap pengembangan)
-3. Database
-4. Hapus Pasien (dipergunakan dengan baik ya)
+2. Pelayanan 
 
-Dependensi:
-npm install puppeteer xlsx
+
 
